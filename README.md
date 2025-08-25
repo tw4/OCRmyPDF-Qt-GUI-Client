@@ -12,6 +12,11 @@ A user-friendly Qt-based graphical interface for [OCRmyPDF](https://ocrmypdf.rea
 - **Real-time Progress**: Monitor processing with detailed progress information
 - **Cross-platform**: Works on Windows, macOS, and Linux
 
+
+<img width="2155" height="1557" alt="Xnapper-2025-08-25-18 40 36" src="https://github.com/user-attachments/assets/92f9e91d-67ef-43cc-8920-d9fa313430b9" />
+
+
+
 ## Installation
 
 ### System Requirements
@@ -283,7 +288,7 @@ Please review the individual license terms for each component before commercial 
 
 ## Changelog
 
-### Version 1.0.0 (2025-XX-XX)
+### Version 1.0.0 (2025-08-25)
 - Initial release
 - Basic OCR functionality with GUI
 - Drag & drop support
