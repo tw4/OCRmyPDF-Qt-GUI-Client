@@ -1,0 +1,25 @@
+# OCRmyPDF Qt GUI Client - Dependencies
+
+# Core OCR functionality (compatible with Python 3.8+)
+ocrmypdf>=13.0.0,<16.0.0
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Image processing
+Pillow>=8.0.0
+
+# Optional dependencies for better PDF handling
+PyPDF2>=3.0.0
+
+# For better logging and configuration
+configparser>=5.0.0
+
+# For system integration
+psutil>=5.8.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.0.0
+# pytest-qt>=4.0.0
+# black>=22.0.0
+# flake8>=4.0.0

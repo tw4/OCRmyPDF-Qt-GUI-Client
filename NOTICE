@@ -1,0 +1,50 @@
+OCRmyPDF GUI Client
+===================
+
+This application is a derivative work that provides a graphical user interface 
+for OCRmyPDF functionality.
+
+Copyright Notice
+================
+This project incorporates and depends on OCRmyPDF:
+
+OCRmyPDF
+Copyright (c) 2022 James R. Barlow and contributors
+Licensed under Mozilla Public License Version 2.0
+Source: https://github.com/ocrmypdf/OCRmyPDF
+
+OCRmyPDF adds an optical character recognition (OCR) text layer to scanned 
+PDF documents, allowing them to be searched.
+
+License Information
+===================
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+Redistribution and Distribution
+==============================
+When distributing this software:
+1. Source code must be made available under MPL 2.0 terms
+2. Recipients must be informed that the source code is governed by MPL 2.0
+3. This notice and all license notices must be preserved
+4. Any modifications must be clearly indicated
+
+Third-Party Dependencies
+========================
+This application also uses:
+- PyQt5 (GPL v3 / Commercial License)
+- Tesseract OCR (Apache License 2.0)
+- Ghostscript (AGPL v3 / Commercial License)
+- Pillow (PIL Software License)
+- Various Python packages (see requirements.txt)
+
+Please refer to individual license terms for each dependency.
+
+Attribution
+===========
+This GUI application was created to provide an accessible interface to the
+excellent OCRmyPDF library. All credit for the core OCR functionality
+belongs to the OCRmyPDF project and its contributors.
+
+For more information about OCRmyPDF, visit: https://ocrmypdf.readthedocs.io/
