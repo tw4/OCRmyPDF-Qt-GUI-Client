@@ -200,8 +200,8 @@ Logs are saved to `ocr_gui.log` in the application directory.
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/your-username/ocrmypdf-gui.git
-cd ocrmypdf-gui
+git clone https://github.com/tw4/OCRmyPDF-Qt-GUI-Client.git
+cd OCRmyPDF-Qt-GUI-Client
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -278,12 +278,12 @@ Please review the individual license terms for each component before commercial 
 ## Support
 
 - **Documentation**: [Read the Docs](https://ocrmypdf-gui.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/your-username/ocrmypdf-gui/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/ocrmypdf-gui/discussions)
+- **Issues**: [GitHub Issues](https://github.com/tw4/OCRmyPDF-Qt-GUI-Client/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/tw4/OCRmyPDF-Qt-GUI-Client/discussions)
 
 ## Changelog
 
-### Version 1.0.0 (2024-XX-XX)
+### Version 1.0.0 (2025-XX-XX)
 - Initial release
 - Basic OCR functionality with GUI
 - Drag & drop support
