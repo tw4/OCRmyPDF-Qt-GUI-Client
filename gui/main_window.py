@@ -156,7 +156,14 @@ class MainWindow(QMainWindow):
         
         settings_widget = QWidget()
         scroll_area.setWidget(settings_widget)
-        
+
+        # sağ paneldeki griliği kaldırma
+        scroll_area.setStyleSheet("QScrollArea { background: transparent; }")
+        scroll_area.viewport().setStyleSheet("background: transparent;")
+        settings_widget.setStyleSheet("background: transparent; QGroupBox { background: transparent; }")
+
+
+
         layout = QVBoxLayout(settings_widget)
         
         # OCR Settings Group
